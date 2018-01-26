@@ -1,0 +1,19 @@
+{
+  "name": "jimmyneutron",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DC00/jimmyneutron.git"
+  },
+  "author": "dcoo",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/DC00/jimmyneutron/issues"
+  },
+  "homepage": "https://github.com/DC00/jimmyneutron#readme"
+}
